@@ -1,4 +1,4 @@
-package factory;
+package src.factory;
 
 
 import shape.Shape;

@@ -1,4 +1,4 @@
-package shape;
+package src.shape;
 
 public class RectangleShape implements Shape{
     @Override
